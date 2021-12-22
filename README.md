@@ -1,1 +1,2 @@
-# Creative_React
+# Пузыревская Анастасия
+Курс React от Creative
